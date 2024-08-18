@@ -25,3 +25,21 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## This Course
+
+## Managing Forms
+Two wasy of handling Froms in Agular.
+1. Template-driven Forms
+2. Reactive Forms
+3. Managing Inputs, Values & Validation
+
+1. Template-driven Forms
+ (Setting up forms via Component templdates)
+
+ 1.1 Easy to get started
+ 1.2 Implementing more complex logic & forms can be tricky 
+
+ 2. Reactive Forms  (Setting up froms via TS Code)
+ 2.1  Setup requries more verbose code
+ 2.2 Handling more complex forms can be easier. 
